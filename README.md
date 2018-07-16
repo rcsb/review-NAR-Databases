@@ -1,5 +1,5 @@
-# Review NAR publications of databases for PDB-releated databases
-The program searches database publication at Nucleic Acid Research (NAR) to find any database that uses PDB data. The program look for PDB keywords in the summary and abstract of each database published at NAR and meansure PDB relation in three tiers:
+# Review Nucleic Acid Research (NAR) publications of databases for PDB-releated databases
+The program searches database publication at NAR to find any database that uses PDB data. The program look for PDB keywords in the summary and abstract of each database published at NAR and meansure PDB relation in three tiers:
 * Tier 1 uses PDB data
 * Tier 2 likely uses PDB data
 * Tier 3 may use PDB data
